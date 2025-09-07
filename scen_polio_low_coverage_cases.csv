@@ -1,0 +1,114 @@
+CODE,NAME,YEAR,POLIO_COV,GROUP,DISEASE,DISEASE_DESCRIPTION,CASES
+PRK,Democratic People's Republic of Korea,2023.0,0.0,COUNTRIES,POLIO,Poliomyelitis,
+AFG,Afghanistan,1994.0,8.0,COUNTRIES,POLIO,Poliomyelitis,
+ASM,American Samoa,1989.0,2.0,COUNTRIES,POLIO,Poliomyelitis,0.0
+NER,Niger,1988.0,9.0,COUNTRIES,POLIO,Poliomyelitis,33.0
+MLI,Mali,1987.0,7.333333333333333,COUNTRIES,POLIO,Poliomyelitis,170.0
+BGD,Bangladesh,1987.0,8.0,COUNTRIES,POLIO,Poliomyelitis,102.0
+NER,Niger,1987.0,7.0,COUNTRIES,POLIO,Poliomyelitis,24.0
+GNQ,Equatorial Guinea,1987.0,8.0,COUNTRIES,POLIO,Poliomyelitis,11.0
+KIR,Kiribati,1987.0,5.0,COUNTRIES,POLIO,Poliomyelitis,0.0
+MLI,Mali,1986.0,4.0,COUNTRIES,POLIO,Poliomyelitis,302.0
+ETH,Ethiopia,1986.0,7.0,COUNTRIES,POLIO,Poliomyelitis,283.0
+LAO,Lao People's Democratic Republic,1986.0,6.0,COUNTRIES,POLIO,Poliomyelitis,182.0
+BGD,Bangladesh,1986.0,4.0,COUNTRIES,POLIO,Poliomyelitis,158.0
+MMR,Myanmar,1986.0,4.0,COUNTRIES,POLIO,Poliomyelitis,91.0
+NER,Niger,1986.0,5.0,COUNTRIES,POLIO,Poliomyelitis,30.0
+TCD,Chad,1986.0,8.0,COUNTRIES,POLIO,Poliomyelitis,9.0
+GIN,Guinea,1986.0,6.0,COUNTRIES,POLIO,Poliomyelitis,8.0
+GNQ,Equatorial Guinea,1986.0,4.0,COUNTRIES,POLIO,Poliomyelitis,1.0
+LAO,Lao People's Democratic Republic,1985.0,4.0,COUNTRIES,POLIO,Poliomyelitis,523.0
+MLI,Mali,1985.0,8.0,COUNTRIES,POLIO,Poliomyelitis,271.0
+SDN,Sudan,1985.0,8.0,COUNTRIES,POLIO,Poliomyelitis,171.0
+NER,Niger,1985.0,4.0,COUNTRIES,POLIO,Poliomyelitis,146.0
+MMR,Myanmar,1985.0,3.0,COUNTRIES,POLIO,Poliomyelitis,109.0
+ETH,Ethiopia,1985.0,6.0,COUNTRIES,POLIO,Poliomyelitis,92.0
+BGD,Bangladesh,1985.0,2.0,COUNTRIES,POLIO,Poliomyelitis,89.0
+TCD,Chad,1985.0,3.0,COUNTRIES,POLIO,Poliomyelitis,45.0
+GNQ,Equatorial Guinea,1985.0,4.0,COUNTRIES,POLIO,Poliomyelitis,2.0
+VNM,Viet Nam,1984.0,5.0,COUNTRIES,POLIO,Poliomyelitis,1158.0
+YEM,Yemen,1984.0,7.0,COUNTRIES,POLIO,Poliomyelitis,767.0
+NGA,Nigeria,1984.0,4.666666666666667,COUNTRIES,POLIO,Poliomyelitis,625.0
+NER,Niger,1984.0,5.0,COUNTRIES,POLIO,Poliomyelitis,184.0
+MMR,Myanmar,1984.0,2.0,COUNTRIES,POLIO,Poliomyelitis,166.0
+ETH,Ethiopia,1984.0,4.0,COUNTRIES,POLIO,Poliomyelitis,131.0
+BGD,Bangladesh,1984.0,1.0,COUNTRIES,POLIO,Poliomyelitis,128.0
+IDN,Indonesia,1984.0,7.833333333333333,COUNTRIES,POLIO,Poliomyelitis,127.0
+SDN,Sudan,1984.0,4.0,COUNTRIES,POLIO,Poliomyelitis,78.0
+NPL,Nepal,1984.0,6.0,COUNTRIES,POLIO,Poliomyelitis,76.0
+TCD,Chad,1984.0,4.0,COUNTRIES,POLIO,Poliomyelitis,9.0
+GNB,Guinea-Bissau,1984.0,4.0,COUNTRIES,POLIO,Poliomyelitis,3.0
+LBN,Lebanon,1984.0,4.0,COUNTRIES,POLIO,Poliomyelitis,3.0
+AFG,Afghanistan,1983.0,5.0,COUNTRIES,POLIO,Poliomyelitis,1991.0
+VNM,Viet Nam,1983.0,2.0,COUNTRIES,POLIO,Poliomyelitis,1109.0
+YEM,Yemen,1983.0,5.0,COUNTRIES,POLIO,Poliomyelitis,633.0
+MMR,Myanmar,1983.0,3.0,COUNTRIES,POLIO,Poliomyelitis,215.0
+NER,Niger,1983.0,5.0,COUNTRIES,POLIO,Poliomyelitis,201.0
+BGD,Bangladesh,1983.0,1.0,COUNTRIES,POLIO,Poliomyelitis,128.0
+ETH,Ethiopia,1983.0,4.0,COUNTRIES,POLIO,Poliomyelitis,127.0
+HTI,Haiti,1983.0,6.666666666666667,COUNTRIES,POLIO,Poliomyelitis,126.0
+SDN,Sudan,1983.0,3.0,COUNTRIES,POLIO,Poliomyelitis,109.0
+SOM,Somalia,1983.0,5.0,COUNTRIES,POLIO,Poliomyelitis,70.0
+NPL,Nepal,1983.0,4.0,COUNTRIES,POLIO,Poliomyelitis,66.0
+IDN,Indonesia,1983.0,4.6000000000000005,COUNTRIES,POLIO,Poliomyelitis,57.0
+LBN,Lebanon,1983.0,6.0,COUNTRIES,POLIO,Poliomyelitis,40.0
+LAO,Lao People's Democratic Republic,1983.0,7.0,COUNTRIES,POLIO,Poliomyelitis,24.0
+GNB,Guinea-Bissau,1983.0,3.0,COUNTRIES,POLIO,Poliomyelitis,2.0
+SEAR,South-East Asia Region,1982.0,8.0,WHO_REGIONS,POLIO,Poliomyelitis,27564.0
+PAK,Pakistan,1982.0,5.0,COUNTRIES,POLIO,Poliomyelitis,3506.0
+AFG,Afghanistan,1982.0,5.0,COUNTRIES,POLIO,Poliomyelitis,1390.0
+IRQ,Iraq,1982.0,6.666666666666667,COUNTRIES,POLIO,Poliomyelitis,419.0
+BGD,Bangladesh,1982.0,1.0,COUNTRIES,POLIO,Poliomyelitis,319.0
+MMR,Myanmar,1982.0,1.0,COUNTRIES,POLIO,Poliomyelitis,304.0
+YEM,Yemen,1982.0,4.0,COUNTRIES,POLIO,Poliomyelitis,235.0
+IDN,Indonesia,1982.0,1.0,COUNTRIES,POLIO,Poliomyelitis,218.0
+NER,Niger,1982.0,6.0,COUNTRIES,POLIO,Poliomyelitis,175.0
+ETH,Ethiopia,1982.0,3.0,COUNTRIES,POLIO,Poliomyelitis,153.0
+SDN,Sudan,1982.0,2.0,COUNTRIES,POLIO,Poliomyelitis,88.0
+NPL,Nepal,1982.0,3.0,COUNTRIES,POLIO,Poliomyelitis,66.0
+LAO,Lao People's Democratic Republic,1982.0,7.0,COUNTRIES,POLIO,Poliomyelitis,46.0
+MDG,Madagascar,1982.0,8.0,COUNTRIES,POLIO,Poliomyelitis,44.0
+DJI,Djibouti,1982.0,6.0,COUNTRIES,POLIO,Poliomyelitis,35.0
+HTI,Haiti,1982.0,8.0,COUNTRIES,POLIO,Poliomyelitis,35.0
+SLE,Sierra Leone,1982.0,9.0,COUNTRIES,POLIO,Poliomyelitis,33.0
+UGA,Uganda,1982.0,9.0,COUNTRIES,POLIO,Poliomyelitis,17.0
+MDV,Maldives,1982.0,1.0,COUNTRIES,POLIO,Poliomyelitis,0.0
+LBN,Lebanon,1982.0,9.0,COUNTRIES,POLIO,Poliomyelitis,
+SOM,Somalia,1982.0,4.333333333333333,COUNTRIES,POLIO,Poliomyelitis,
+SEAR,South-East Asia Region,1981.0,4.0,WHO_REGIONS,POLIO,Poliomyelitis,39936.0
+WPR,Western Pacific Region,1981.0,7.0,WHO_REGIONS,POLIO,Poliomyelitis,11144.0
+PAK,Pakistan,1981.0,3.0,COUNTRIES,POLIO,Poliomyelitis,4334.0
+IDN,Indonesia,1981.0,0.5,COUNTRIES,POLIO,Poliomyelitis,941.0
+AFG,Afghanistan,1981.0,3.0,COUNTRIES,POLIO,Poliomyelitis,837.0
+YEM,Yemen,1981.0,3.0,COUNTRIES,POLIO,Poliomyelitis,541.0
+CMR,Cameroon,1981.0,5.0,COUNTRIES,POLIO,Poliomyelitis,333.0
+NER,Niger,1981.0,6.0,COUNTRIES,POLIO,Poliomyelitis,279.0
+TGO,Togo,1981.0,9.0,COUNTRIES,POLIO,Poliomyelitis,144.0
+BFA,Burkina Faso,1981.0,2.0,COUNTRIES,POLIO,Poliomyelitis,128.0
+UGA,Uganda,1981.0,8.0,COUNTRIES,POLIO,Poliomyelitis,124.0
+BGD,Bangladesh,1981.0,0.5,COUNTRIES,POLIO,Poliomyelitis,98.0
+ETH,Ethiopia,1981.0,3.0,COUNTRIES,POLIO,Poliomyelitis,67.0
+SDN,Sudan,1981.0,1.0,COUNTRIES,POLIO,Poliomyelitis,63.0
+HTI,Haiti,1981.0,4.0,COUNTRIES,POLIO,Poliomyelitis,35.0
+NPL,Nepal,1981.0,1.0,COUNTRIES,POLIO,Poliomyelitis,9.0
+LBN,Lebanon,1981.0,4.0,COUNTRIES,POLIO,Poliomyelitis,1.0
+GUM,Guam,1981.0,1.0,COUNTRIES,POLIO,Poliomyelitis,0.0
+MDV,Maldives,1981.0,1.0,COUNTRIES,POLIO,Poliomyelitis,0.0
+TKL,Tokelau,1981.0,7.0,COUNTRIES,POLIO,Poliomyelitis,0.0
+LAO,Lao People's Democratic Republic,1981.0,7.0,COUNTRIES,POLIO,Poliomyelitis,
+SOM,Somalia,1981.0,2.0,COUNTRIES,POLIO,Poliomyelitis,
+SEAR,South-East Asia Region,1980.0,3.0,WHO_REGIONS,POLIO,Poliomyelitis,20089.0
+WPR,Western Pacific Region,1980.0,5.0,WHO_REGIONS,POLIO,Poliomyelitis,11420.0
+AFR,African Region,1980.0,6.0,WHO_REGIONS,POLIO,Poliomyelitis,5126.0
+SDN,Sudan,1980.0,1.0,COUNTRIES,POLIO,Poliomyelitis,4151.0
+PAK,Pakistan,1980.0,2.0,COUNTRIES,POLIO,Poliomyelitis,2980.0
+AFG,Afghanistan,1980.0,3.0,COUNTRIES,POLIO,Poliomyelitis,880.0
+YEM,Yemen,1980.0,1.0,COUNTRIES,POLIO,Poliomyelitis,722.0
+ETH,Ethiopia,1980.0,3.0,COUNTRIES,POLIO,Poliomyelitis,234.0
+GHA,Ghana,1980.0,7.0,COUNTRIES,POLIO,Poliomyelitis,145.0
+BGD,Bangladesh,1980.0,0.0,COUNTRIES,POLIO,Poliomyelitis,65.0
+HTI,Haiti,1980.0,8.0,COUNTRIES,POLIO,Poliomyelitis,20.0
+SLE,Sierra Leone,1980.0,7.0,COUNTRIES,POLIO,Poliomyelitis,11.0
+BTN,Bhutan,1980.0,4.0,COUNTRIES,POLIO,Poliomyelitis,6.0
+MDV,Maldives,1980.0,4.0,COUNTRIES,POLIO,Poliomyelitis,1.0
+SOM,Somalia,1980.0,8.0,COUNTRIES,POLIO,Poliomyelitis,

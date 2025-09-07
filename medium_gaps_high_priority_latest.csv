@@ -1,0 +1,155 @@
+GROUP,CODE,NAME,YEAR,ANTIGEN,ANTIGEN_DESCRIPTION,COVERAGE_CATEGORY,COVERAGE_CATEGORY_DESCRIPTION,TARGET_NUMBER,DOSES,COVERAGE,BASE
+COUNTRIES,NZL,New Zealand,2023.0,BCG,BCG,ADMIN,Administrative coverage,60778.0,7929.0,13.05,BCG
+COUNTRIES,FJI,Fiji,2023.0,BCG,BCG,ADMIN,Administrative coverage,13424.0,5079.0,37.84,BCG
+COUNTRIES,PNG,Papua New Guinea,2023.0,BCG,BCG,ADMIN,Administrative coverage,353333.0,152537.0,43.17,BCG
+COUNTRIES,SDN,Sudan,2023.0,BCG,BCG,ADMIN,Administrative coverage,2042361.0,1007685.0,49.34,BCG
+COUNTRIES,PRK,Democratic People's Republic of Korea,2023.0,BCG,BCG,ADMIN,Administrative coverage,305384.0,191081.0,62.57,BCG
+COUNTRIES,LSO,Lesotho,2023.0,BCG,BCG,ADMIN,Administrative coverage,32702.0,20755.0,63.47,BCG
+COUNTRIES,YEM,Yemen,2023.0,BCG,BCG,ADMIN,Administrative coverage,1254398.0,802445.0,63.97,BCG
+COUNTRIES,PRY,Paraguay,2023.0,BCG,BCG,ADMIN,Administrative coverage,142485.0,93627.0,65.71,BCG
+COUNTRIES,VEN,Venezuela (Bolivarian Republic of),2023.0,BCG,BCG,ADMIN,Administrative coverage,528194.0,353504.0,66.93,BCG
+COUNTRIES,PHL,Philippines,2023.0,BCG,BCG,ADMIN,Administrative coverage,2187333.0,1464515.0,66.95,BCG
+COUNTRIES,COG,Congo,2023.0,BCG,BCG,ADMIN,Administrative coverage,256018.0,171841.0,67.12,BCG
+COUNTRIES,IDN,Indonesia,2023.0,BCG,BCG,ADMIN,Administrative coverage,4438677.0,3036525.0,68.41,BCG
+COUNTRIES,ARG,Argentina,2023.0,BCG,BCG,ADMIN,Administrative coverage,494208.0,339846.0,68.77,BCG
+COUNTRIES,GAB,Gabon,2023.0,BCG,BCG,ADMIN,Administrative coverage,84525.0,58561.0,69.28,BCG
+COUNTRIES,BDI,Burundi,2023.0,BCG,BCG,ADMIN,Administrative coverage,615578.0,431149.0,70.04,BCG
+COUNTRIES,ERI,Eritrea,2023.0,BCG,BCG,ADMIN,Administrative coverage,111830.0,79500.0,71.09,BCG
+COUNTRIES,HND,Honduras,2023.0,BCG,BCG,ADMIN,Administrative coverage,201319.0,144505.0,71.78,BCG
+COUNTRIES,COM,Comoros,2023.0,BCG,BCG,ADMIN,Administrative coverage,26101.0,18760.0,71.87,BCG
+COUNTRIES,EST,Estonia,2023.0,BCG,BCG,ADMIN,Administrative coverage,11817.0,8537.0,72.24,BCG
+COUNTRIES,BOL,Bolivia (Plurinational State of),2023.0,BCG,BCG,ADMIN,Administrative coverage,237693.0,175255.0,73.73,BCG
+COUNTRIES,BWA,Botswana,2023.0,BCG,BCG,ADMIN,Administrative coverage,58489.0,43649.0,74.63,BCG
+WB_LONG,WB_LONG_LIC,Low income,2023.0,BCG,BCG,WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,25286085.0,19121319.0,76.0,BCG
+WB_SHORT,WB_SHORT_LIC,Low income,2023.0,BCG,BCG,WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,25286085.0,19121319.0,76.0,BCG
+COUNTRIES,GMB,Gambia,2023.0,BCG,BCG,ADMIN,Administrative coverage,93465.0,71226.0,76.21,BCG
+COUNTRIES,FSM,Micronesia (Federated States of),2023.0,BCG,BCG,ADMIN,Administrative coverage,1694.0,1296.0,76.51,BCG
+COUNTRIES,SYR,Syrian Arab Republic,2023.0,BCG,BCG,ADMIN,Administrative coverage,573944.0,442951.0,77.18,BCG
+COUNTRIES,TGO,Togo,2023.0,BCG,BCG,ADMIN,Administrative coverage,372676.0,287665.0,77.19,BCG
+COUNTRIES,SLE,Sierra Leone,2023.0,BCG,BCG,ADMIN,Administrative coverage,347584.0,271671.0,78.16,BCG
+COUNTRIES,TUN,Tunisia,2023.0,BCG,BCG,ADMIN,Administrative coverage,147114.0,115622.0,78.59,BCG
+COUNTRIES,ZAF,South Africa,2023.0,BCG,BCG,ADMIN,Administrative coverage,1135768.0,894857.0,78.79,BCG
+COUNTRIES,BRA,Brazil,2023.0,BCG,BCG,ADMIN,Administrative coverage,2534306.0,2004532.0,79.1,BCG
+COUNTRIES,MNE,Montenegro,2023.0,BCG,BCG,ADMIN,Administrative coverage,6897.0,5515.0,79.96,BCG
+COUNTRIES,PRK,Democratic People's Republic of Korea,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,302551.0,49288.0,16.29,HEPB3
+COUNTRIES,PNG,Papua New Guinea,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,323047.0,128695.0,39.84,HEPB3
+COUNTRIES,ROU,Romania,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,131873.0,53331.0,40.44,HEPB3
+COUNTRIES,MNE,Montenegro,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,7268.0,3034.0,41.74,HEPB3
+COUNTRIES,LTU,Lithuania,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,18476.0,8577.0,46.42,HEPB3
+COUNTRIES,VEN,Venezuela (Bolivarian Republic of),2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,528194.0,285467.0,54.05,HEPB3
+COUNTRIES,DMA,Dominica,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,658.0,370.0,56.23,HEPB3
+COUNTRIES,LBN,Lebanon,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,94153.0,59514.0,63.21,HEPB3
+COUNTRIES,VNM,Viet Nam,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,1267834.0,822838.0,64.9,HEPB3
+COUNTRIES,ARG,Argentina,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,494208.0,327126.0,66.19,HEPB3
+COUNTRIES,PAN,Panama,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,59455.0,39501.0,66.44,HEPB3
+COUNTRIES,BOL,Bolivia (Plurinational State of),2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,237693.0,160411.0,67.49,HEPB3
+WB_LONG,WB_LONG_LIC,Low income,2023.0,HEPB3,"HepB, 3rd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,24387752.0,16620440.0,68.0,HEPB3
+WB_SHORT,WB_SHORT_LIC,Low income,2023.0,HEPB3,"HepB, 3rd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,24387752.0,16620440.0,68.0,HEPB3
+UNICEF_REGIONS,UNICEF_REGIONS_WCARO,West and Central Africa,2023.0,HEPB3,"HepB, 3rd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,20457110.0,14116362.0,69.0,HEPB3
+COUNTRIES,GAB,Gabon,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,79453.0,55252.0,69.54,HEPB3
+COUNTRIES,EST,Estonia,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,13825.0,9953.0,71.99,HEPB3
+COUNTRIES,SYR,Syrian Arab Republic,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,573944.0,414814.0,72.27,HEPB3
+COUNTRIES,HND,Honduras,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,201319.0,146448.0,72.74,HEPB3
+COUNTRIES,GNQ,Equatorial Guinea,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,20550.0,15118.0,73.57,HEPB3
+DEVELOPMENT_STATUS,LEAST_DEVELOPED,Least developed,2023.0,HEPB3,"HepB, 3rd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,35217996.0,25970129.0,74.0,HEPB3
+WHO_REGIONS,AFR,African Region,2023.0,HEPB3,"HepB, 3rd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,38701573.0,28789815.0,74.0,HEPB3
+COUNTRIES,LCA,Saint Lucia,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,1740.0,1289.0,74.08,HEPB3
+COUNTRIES,MNP,Northern Mariana Islands,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,581.0,432.0,74.35,HEPB3
+COUNTRIES,COM,Comoros,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,23491.0,17527.0,74.61,HEPB3
+COUNTRIES,AGO,Angola,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,1154497.0,870073.0,75.36,HEPB3
+COUNTRIES,MMR,Myanmar,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,937088.0,708186.0,75.57,HEPB3
+COUNTRIES,BIH,Bosnia and Herzegovina,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,25837.0,19806.0,76.7,HEPB3
+COUNTRIES,PHL,Philippines,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,2187333.0,1680032.0,76.81,HEPB3
+COUNTRIES,YEM,Yemen,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,1166010.0,896772.0,76.91,HEPB3
+COUNTRIES,ERI,Eritrea,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,104374.0,81215.0,77.81,HEPB3
+COUNTRIES,COG,Congo,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,246769.0,192402.0,77.97,HEPB3
+UNICEF_REGIONS,UNICEF_REGIONS_ESARO,Eastern and Southern Africa,2023.0,HEPB3,"HepB, 3rd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,18088053.0,14136834.0,78.0,HEPB3
+COUNTRIES,ZAF,South Africa,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,1135768.0,895350.0,78.83,HEPB3
+WHO_REGIONS,EMR,Eastern Mediterranean Region,2023.0,HEPB3,"HepB, 3rd dose",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,19171947.0,15198324.0,79.0,HEPB3
+COUNTRIES,UKR,Ukraine,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,181984.0,144197.0,79.24,HEPB3
+COUNTRIES,BWA,Botswana,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,56857.0,45155.0,79.42,HEPB3
+COUNTRIES,ZMB,Zambia,2023.0,HEPB3,"HepB, 3rd dose",ADMIN,Administrative coverage,856372.0,682474.0,79.69,HEPB3
+COUNTRIES,PRK,Democratic People's Republic of Korea,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,305384.0,0.0,0.0,HEPB_BD
+UNICEF_REGIONS,UNICEF_REGIONS_ESARO,Eastern and Southern Africa,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,18660171.0,87566.0,0.0,HEPB_BD
+COUNTRIES,SYR,Syrian Arab Republic,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,576532.0,27943.0,4.85,HEPB_BD
+COUNTRIES,SYC,Seychelles,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,1553.0,79.0,5.09,HEPB_BD
+WB_LONG,WB_LONG_LIC,Low income,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,25286085.0,1450593.0,6.0,HEPB_BD
+WB_SHORT,WB_SHORT_LIC,Low income,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,25286085.0,1450593.0,6.0,HEPB_BD
+DEVELOPMENT_STATUS,LEAST_DEVELOPED,Least developed,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,36433514.0,2878136.0,8.0,HEPB_BD
+COUNTRIES,MMR,Myanmar,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,964649.0,159731.0,16.56,HEPB_BD
+WHO_REGIONS,AFR,African Region,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,40209260.0,7031714.0,17.0,HEPB_BD
+COUNTRIES,PNG,Papua New Guinea,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,353333.0,92560.0,26.2,HEPB_BD
+UNICEF_REGIONS,UNICEF_REGIONS_WCARO,West and Central Africa,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,21418323.0,6047226.0,28.0,HEPB_BD
+COUNTRIES,VEN,Venezuela (Bolivarian Republic of),2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,528194.0,149560.0,28.32,HEPB_BD
+UNICEF_REGIONS,UNICEF_REGIONS_DEV,Developed countries,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,11126794.0,3522619.0,32.0,HEPB_BD
+GAVI_PHASE5,GAVI_PHASE5_YES,Gavi 5.0 yes,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,80265813.0,26256694.0,33.0,HEPB_BD
+COUNTRIES,ATG,Antigua and Barbuda,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,940.0,324.0,34.0,HEPB_BD
+DEVELOPMENT_STATUS,DEVELOPED_ECONOMY,Developed economy,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,9947630.0,3549095.0,36.0,HEPB_BD
+COUNTRIES,PAK,Pakistan,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,7278023.0,2691887.0,36.99,HEPB_BD
+WB_LONG,WB_LONG_HIC_OECD,High income: oecd,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,10061209.0,3714619.0,37.0,HEPB_BD
+WB_SHORT,WB_SHORT_HIC,High income,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,12629743.0,4830268.0,38.0,HEPB_BD
+COUNTRIES,FJI,Fiji,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,13424.0,5252.0,39.12,HEPB_BD
+COUNTRIES,GMB,Gambia,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,93465.0,37886.0,40.53,HEPB_BD
+WB_LONG,WB_LONG_HIC_NONOECD,High income: non oecd,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,2568534.0,1115648.0,43.0,HEPB_BD
+WHO_REGIONS,EUR,European Region,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,9711238.0,4195124.0,43.0,HEPB_BD
+GLOBAL,GLOBAL,Global,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,131821797.0,59766207.0,45.0,HEPB_BD
+WHO_REGIONS,EMR,Eastern Mediterranean Region,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,19724053.0,8975815.0,46.0,HEPB_BD
+WB_LONG,WB_LONG_LMIC,Lower middle income,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,64183230.0,30065820.0,47.0,HEPB_BD
+COUNTRIES,IRQ,Iraq,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,1093454.0,557490.0,50.98,HEPB_BD
+UNICEF_REGIONS,UNICEF_REGIONS_ROSA,South Asia,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,35974681.0,18204165.0,51.0,HEPB_BD
+COUNTRIES,GTM,Guatemala,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,345359.0,179849.0,52.08,HEPB_BD
+COUNTRIES,BWA,Botswana,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,58489.0,31632.0,54.08,HEPB_BD
+COUNTRIES,IDN,Indonesia,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,4438677.0,2432213.0,54.8,HEPB_BD
+UNICEF_REGIONS,UNICEF_REGIONS_MENA,Middle East and North Africa,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,11490184.0,6311947.0,55.0,HEPB_BD
+COUNTRIES,AFG,Afghanistan,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,2057002.0,1135053.0,55.18,HEPB_BD
+COUNTRIES,UKR,Ukraine,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,204009.0,112938.0,55.36,HEPB_BD
+WB_SHORT,WB_SHORT_MIC,Middle income,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,93478782.0,53365592.0,57.0,HEPB_BD
+WHO_REGIONS,SEAR,South-East Asia Region,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,33973574.0,19290896.0,57.0,HEPB_BD
+COUNTRIES,PHL,Philippines,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,2187333.0,1254868.0,57.37,HEPB_BD
+COUNTRIES,MEX,Mexico,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,1802216.0,1091798.0,60.58,HEPB_BD
+DEVELOPMENT_STATUS,ECONOMY_IN_TRANSITION,Economy in transition,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,3883357.0,2381628.0,61.0,HEPB_BD
+DEVELOPMENT_STATUS,DEVELOPING,Developing,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,81557296.0,50957349.0,62.0,HEPB_BD
+UNICEF_REGIONS,UNICEF_REGIONS_LACRO,Latin America and the Caribbean,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,9313834.0,5772061.0,62.0,HEPB_BD
+COUNTRIES,ARG,Argentina,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,494208.0,316110.0,63.96,HEPB_BD
+WHO_REGIONS,AMR,Region of the Americas,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,13328055.0,8515168.0,64.0,HEPB_BD
+COUNTRIES,HND,Honduras,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,201319.0,129328.0,64.24,HEPB_BD
+GAVI_PHASE5,GAVI_PHASE5_NO,Gavi 5.0 no,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,51555984.0,33509513.0,65.0,HEPB_BD
+COUNTRIES,MRT,Mauritania,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,162490.0,106044.0,65.26,HEPB_BD
+COUNTRIES,CIV,Côte d'Ivoire,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,1201305.0,841688.0,70.06,HEPB_BD
+COUNTRIES,NAM,Namibia,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,98468.0,70286.0,71.38,HEPB_BD
+COUNTRIES,TUN,Tunisia,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,147114.0,105495.0,71.71,HEPB_BD
+COUNTRIES,DOM,Dominican Republic,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,185470.0,137959.0,74.38,HEPB_BD
+COUNTRIES,BRA,Brazil,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,2534306.0,1903444.0,75.11,HEPB_BD
+COUNTRIES,SLB,Solomon Islands,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,16217.0,12209.0,75.29,HEPB_BD
+COUNTRIES,VUT,Vanuatu,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,9251.0,7042.0,76.0,HEPB_BD
+COUNTRIES,COL,Colombia,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,596676.0,461581.0,77.36,HEPB_BD
+COUNTRIES,LAO,Lao People's Democratic Republic,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,154050.0,119620.0,77.65,HEPB_BD
+COUNTRIES,FSM,Micronesia (Federated States of),2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,1694.0,1323.0,78.1,HEPB_BD
+COUNTRIES,STP,Sao Tome and Principe,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",ADMIN,Administrative coverage,5815.0,4546.0,78.18,HEPB_BD
+WHO_REGIONS,WPR,Western Pacific Region,2023.0,HEPB_BD,"HepB, birth dose (given within 24 hours of birth)",WUENIC,WHO/UNICEF Estimates of National Immunization Coverage,14875617.0,11757491.0,79.0,HEPB_BD
+COUNTRIES,TUV,Tuvalu,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,0.0,0.0,0.0,HEPB_BDALL
+COUNTRIES,CPV,Cabo Verde,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,8201.0,24.0,0.29,HEPB_BDALL
+COUNTRIES,NZL,New Zealand,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,60778.0,213.0,0.35,HEPB_BDALL
+COUNTRIES,ESP,Spain,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,303678.0,1245.0,0.41,HEPB_BDALL
+COUNTRIES,KIR,Kiribati,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,3384.0,51.0,1.51,HEPB_BDALL
+COUNTRIES,SYC,Seychelles,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,1553.0,80.0,5.15,HEPB_BDALL
+COUNTRIES,VUT,Vanuatu,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,9251.0,2209.0,7.0,HEPB_BDALL
+COUNTRIES,MMR,Myanmar,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,964649.0,159731.0,16.56,HEPB_BDALL
+COUNTRIES,BWA,Botswana,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,58489.0,11390.0,19.47,HEPB_BDALL
+COUNTRIES,UGA,Uganda,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,2207138.0,549343.0,24.89,HEPB_BDALL
+COUNTRIES,PNG,Papua New Guinea,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,353333.0,111334.0,31.51,HEPB_BDALL
+COUNTRIES,VEN,Venezuela (Bolivarian Republic of),2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,528194.0,191801.0,36.31,HEPB_BDALL
+COUNTRIES,ATG,Antigua and Barbuda,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,940.0,354.0,37.66,HEPB_BDALL
+COUNTRIES,FJI,Fiji,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,13424.0,5252.0,39.12,HEPB_BDALL
+COUNTRIES,IDN,Indonesia,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,4438677.0,2591126.0,58.38,HEPB_BDALL
+COUNTRIES,MEX,Mexico,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,1802216.0,1091798.0,60.58,HEPB_BDALL
+COUNTRIES,AGO,Angola,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,1218526.0,777964.0,63.84,HEPB_BDALL
+COUNTRIES,ARG,Argentina,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,494208.0,316110.0,63.96,HEPB_BDALL
+COUNTRIES,HND,Honduras,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,201319.0,129328.0,64.24,HEPB_BDALL
+COUNTRIES,CIV,Côte d'Ivoire,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,1201305.0,841688.0,70.06,HEPB_BDALL
+COUNTRIES,NGA,Nigeria,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,8438832.0,6107263.0,72.37,HEPB_BDALL
+COUNTRIES,SYR,Syrian Arab Republic,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,573944.0,418606.0,72.93,HEPB_BDALL
+COUNTRIES,GNQ,Equatorial Guinea,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,22654.0,16607.0,73.31,HEPB_BDALL
+COUNTRIES,DOM,Dominican Republic,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,185470.0,137959.0,74.38,HEPB_BDALL
+COUNTRIES,FSM,Micronesia (Federated States of),2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,2582.0,1977.0,76.57,HEPB_BDALL
+COUNTRIES,GTM,Guatemala,2023.0,HEPB_BDALL,"HepB, birth dose total (including those given within and after 24 hours of birth)",ADMIN,Administrative coverage,345359.0,269281.0,77.97,HEPB_BDALL
